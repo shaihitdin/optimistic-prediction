@@ -1,0 +1,456 @@
+Matchday 1
+Date	Time	Match
+11/08/2018	15:00	AFC_Bournemouth v Cardiff_City
+11/08/2018	15:00	Arsenal_FC v Manchester_City
+11/08/2018	15:00	Fulham_FC v Crystal_Palace
+11/08/2018	15:00	Huddersfield_Town v Chelsea_FC
+11/08/2018	15:00	Liverpool_FC v West_Ham_United
+11/08/2018	15:00	Manchester_United v Leicester_City
+11/08/2018	15:00	Newcastle_United v Tottenham_Hotspur
+11/08/2018	15:00	Southampton_FC v Burnley_FC
+11/08/2018	15:00	Watford_FC v Brighton_&_Hove_Albion
+11/08/2018	15:00	Wolverhampton_Wanderers v Everton_FC
+Matchday 2
+Date	Time	Match
+18/08/2018	15:00	Brighton_&_Hove_Albion v Manchester_United
+18/08/2018	15:00	Burnley_FC v Watford_FC
+18/08/2018	15:00	Cardiff_City v Newcastle_United
+18/08/2018	15:00	Chelsea_FC v Arsenal_FC
+18/08/2018	15:00	Crystal_Palace v Liverpool_FC
+18/08/2018	15:00	Everton_FC v Southampton_FC
+18/08/2018	15:00	Leicester_City v Wolverhampton_Wanderers
+18/08/2018	15:00	Manchester_City v Huddersfield_Town
+18/08/2018	15:00	Tottenham_Hotspur v Fulham_FC
+18/08/2018	15:00	West_Ham_United v AFC_Bournemouth
+Matchday 3
+Date	Time	Match
+25/08/2018	15:00	AFC_Bournemouth v Everton_FC
+25/08/2018	15:00	Arsenal_FC v West_Ham_United
+25/08/2018	15:00	Fulham_FC v Burnley_FC
+25/08/2018	15:00	Huddersfield_Town v Cardiff_City
+25/08/2018	15:00	Liverpool_FC v Brighton_&_Hove_Albion
+25/08/2018	15:00	Manchester_United v Tottenham_Hotspur
+25/08/2018	15:00	Newcastle_United v Chelsea_FC
+25/08/2018	15:00	Southampton_FC v Leicester_City
+25/08/2018	15:00	Watford_FC v Crystal_Palace
+25/08/2018	15:00	Wolverhampton_Wanderers v Manchester_City
+Matchday 4
+Date	Time	Match
+01/09/2018	15:00	Brighton_&_Hove_Albion v Fulham_FC
+01/09/2018	15:00	Burnley_FC v Manchester_United
+01/09/2018	15:00	Cardiff_City v Arsenal_FC
+01/09/2018	15:00	Chelsea_FC v AFC_Bournemouth
+01/09/2018	15:00	Crystal_Palace v Southampton_FC
+01/09/2018	15:00	Everton_FC v Huddersfield_Town
+01/09/2018	15:00	Leicester_City v Liverpool_FC
+01/09/2018	15:00	Manchester_City v Newcastle_United
+01/09/2018	15:00	Watford_FC v Tottenham_Hotspur
+01/09/2018	15:00	West_Ham_United v Wolverhampton_Wanderers
+Matchday 5
+Date	Time	Match
+15/09/2018	15:00	AFC_Bournemouth v Leicester_City
+15/09/2018	15:00	Chelsea_FC v Cardiff_City
+15/09/2018	15:00	Everton_FC v West_Ham_United
+15/09/2018	15:00	Huddersfield_Town v Crystal_Palace
+15/09/2018	15:00	Manchester_City v Fulham_FC
+15/09/2018	15:00	Newcastle_United v Arsenal_FC
+15/09/2018	15:00	Southampton_FC v Brighton_&_Hove_Albion
+15/09/2018	15:00	Tottenham_Hotspur v Liverpool_FC
+15/09/2018	15:00	Watford_FC v Manchester_United
+15/09/2018	15:00	Wolverhampton_Wanderers v Burnley_FC
+Matchday 6
+Date	Time	Match
+22/09/2018	15:00	Arsenal_FC v Everton_FC
+22/09/2018	15:00	Brighton_&_Hove_Albion v Tottenham_Hotspur
+22/09/2018	15:00	Burnley_FC v AFC_Bournemouth
+22/09/2018	15:00	Cardiff_City v Manchester_City
+22/09/2018	15:00	Crystal_Palace v Newcastle_United
+22/09/2018	15:00	Fulham_FC v Watford_FC
+22/09/2018	15:00	Leicester_City v Huddersfield_Town
+22/09/2018	15:00	Liverpool_FC v Southampton_FC
+22/09/2018	15:00	Manchester_United v Wolverhampton_Wanderers
+22/09/2018	15:00	West_Ham_United v Chelsea_FC
+Matchday 7
+Date	Time	Match
+29/09/2018	15:00	AFC_Bournemouth v Crystal_Palace
+29/09/2018	15:00	Arsenal_FC v Watford_FC
+29/09/2018	15:00	Cardiff_City v Burnley_FC
+29/09/2018	15:00	Chelsea_FC v Liverpool_FC
+29/09/2018	15:00	Everton_FC v Fulham_FC
+29/09/2018	15:00	Huddersfield_Town v Tottenham_Hotspur
+29/09/2018	15:00	Manchester_City v Brighton_&_Hove_Albion
+29/09/2018	15:00	Newcastle_United v Leicester_City
+29/09/2018	15:00	West_Ham_United v Manchester_United
+29/09/2018	15:00	Wolverhampton_Wanderers v Southampton_FC
+Matchday 8
+Date	Time	Match
+06/10/2018	15:00	Brighton_&_Hove_Albion v West_Ham_United
+06/10/2018	15:00	Burnley_FC v Huddersfield_Town
+06/10/2018	15:00	Crystal_Palace v Wolverhampton_Wanderers
+06/10/2018	15:00	Fulham_FC v Arsenal_FC
+06/10/2018	15:00	Leicester_City v Everton_FC
+06/10/2018	15:00	Liverpool_FC v Manchester_City
+06/10/2018	15:00	Manchester_United v Newcastle_United
+06/10/2018	15:00	Southampton_FC v Chelsea_FC
+06/10/2018	15:00	Tottenham_Hotspur v Cardiff_City
+06/10/2018	15:00	Watford_FC v AFC_Bournemouth
+Matchday 9
+Date	Time	Match
+20/10/2018	15:00	AFC_Bournemouth v Southampton_FC
+20/10/2018	15:00	Arsenal_FC v Leicester_City
+20/10/2018	15:00	Cardiff_City v Fulham_FC
+20/10/2018	15:00	Chelsea_FC v Manchester_United
+20/10/2018	15:00	Everton_FC v Crystal_Palace
+20/10/2018	15:00	Huddersfield_Town v Liverpool_FC
+20/10/2018	15:00	Manchester_City v Burnley_FC
+20/10/2018	15:00	Newcastle_United v Brighton_&_Hove_Albion
+20/10/2018	15:00	West_Ham_United v Tottenham_Hotspur
+20/10/2018	15:00	Wolverhampton_Wanderers v Watford_FC
+Matchday 10
+Date	Time	Match
+27/10/2018	15:00	Brighton_&_Hove_Albion v Wolverhampton_Wanderers
+27/10/2018	15:00	Burnley_FC v Chelsea_FC
+27/10/2018	15:00	Crystal_Palace v Arsenal_FC
+27/10/2018	15:00	Fulham_FC v AFC_Bournemouth
+27/10/2018	15:00	Leicester_City v West_Ham_United
+27/10/2018	15:00	Liverpool_FC v Cardiff_City
+27/10/2018	15:00	Manchester_United v Everton_FC
+27/10/2018	15:00	Southampton_FC v Newcastle_United
+27/10/2018	15:00	Tottenham_Hotspur v Manchester_City
+27/10/2018	15:00	Watford_FC v Huddersfield_Town
+Matchday 11
+Date	Time	Match
+03/11/2018	15:00	AFC_Bournemouth v Manchester_United
+03/11/2018	15:00	Arsenal_FC v Liverpool_FC
+03/11/2018	15:00	Cardiff_City v Leicester_City
+03/11/2018	15:00	Chelsea_FC v Crystal_Palace
+03/11/2018	15:00	Everton_FC v Brighton_&_Hove_Albion
+03/11/2018	15:00	Huddersfield_Town v Fulham_FC
+03/11/2018	15:00	Manchester_City v Southampton_FC
+03/11/2018	15:00	Newcastle_United v Watford_FC
+03/11/2018	15:00	West_Ham_United v Burnley_FC
+03/11/2018	15:00	Wolverhampton_Wanderers v Tottenham_Hotspur
+Matchday 12
+Date	Time	Match
+10/11/2018	15:00	Arsenal_FC v Wolverhampton_Wanderers
+10/11/2018	15:00	Cardiff_City v Brighton_&_Hove_Albion
+10/11/2018	15:00	Chelsea_FC v Everton_FC
+10/11/2018	15:00	Crystal_Palace v Tottenham_Hotspur
+10/11/2018	15:00	Huddersfield_Town v West_Ham_United
+10/11/2018	15:00	Leicester_City v Burnley_FC
+10/11/2018	15:00	Liverpool_FC v Fulham_FC
+10/11/2018	15:00	Manchester_City v Manchester_United
+10/11/2018	15:00	Newcastle_United v AFC_Bournemouth
+10/11/2018	15:00	Southampton_FC v Watford_FC
+Matchday 13
+Date	Time	Match
+24/11/2018	15:00	AFC_Bournemouth v Arsenal_FC
+24/11/2018	15:00	Brighton_&_Hove_Albion v Leicester_City
+24/11/2018	15:00	Burnley_FC v Newcastle_United
+24/11/2018	15:00	Everton_FC v Cardiff_City
+24/11/2018	15:00	Fulham_FC v Southampton_FC
+24/11/2018	15:00	Manchester_United v Crystal_Palace
+24/11/2018	15:00	Tottenham_Hotspur v Chelsea_FC
+24/11/2018	15:00	Watford_FC v Liverpool_FC
+24/11/2018	15:00	West_Ham_United v Manchester_City
+24/11/2018	15:00	Wolverhampton_Wanderers v Huddersfield_Town
+Matchday 14
+Date	Time	Match
+01/12/2018	15:00	Arsenal_FC v Tottenham_Hotspur
+01/12/2018	15:00	Cardiff_City v Wolverhampton_Wanderers
+01/12/2018	15:00	Chelsea_FC v Fulham_FC
+01/12/2018	15:00	Crystal_Palace v Burnley_FC
+01/12/2018	15:00	Huddersfield_Town v Brighton_&_Hove_Albion
+01/12/2018	15:00	Leicester_City v Watford_FC
+01/12/2018	15:00	Liverpool_FC v Everton_FC
+01/12/2018	15:00	Manchester_City v AFC_Bournemouth
+01/12/2018	15:00	Newcastle_United v West_Ham_United
+01/12/2018	15:00	Southampton_FC v Manchester_United
+Matchday 15
+Date	Time	Match
+04/12/2018	19:45	AFC_Bournemouth v Huddersfield_Town
+04/12/2018	19:45	Brighton_&_Hove_Albion v Crystal_Palace
+04/12/2018	19:45	Burnley_FC v Liverpool_FC
+04/12/2018	19:45	Fulham_FC v Leicester_City
+04/12/2018	20:00	Manchester_United v Arsenal_FC
+04/12/2018	19:45	Watford_FC v Manchester_City
+04/12/2018	19:45	West_Ham_United v Cardiff_City
+04/12/2018	19:45	Wolverhampton_Wanderers v Chelsea_FC
+05/12/2018	19:45	Everton_FC v Newcastle_United
+05/12/2018	20:00	Tottenham_Hotspur v Southampton_FC
+Matchday 16
+Date	Time	Match
+08/12/2018	15:00	AFC_Bournemouth v Liverpool_FC
+08/12/2018	15:00	Arsenal_FC v Huddersfield_Town
+08/12/2018	15:00	Burnley_FC v Brighton_&_Hove_Albion
+08/12/2018	15:00	Cardiff_City v Southampton_FC
+08/12/2018	15:00	Chelsea_FC v Manchester_City
+08/12/2018	15:00	Everton_FC v Watford_FC
+08/12/2018	15:00	Leicester_City v Tottenham_Hotspur
+08/12/2018	15:00	Manchester_United v Fulham_FC
+08/12/2018	15:00	Newcastle_United v Wolverhampton_Wanderers
+08/12/2018	15:00	West_Ham_United v Crystal_Palace
+Matchday 17
+Date	Time	Match
+15/12/2018	15:00	Brighton_&_Hove_Albion v Chelsea_FC
+15/12/2018	15:00	Crystal_Palace v Leicester_City
+15/12/2018	15:00	Fulham_FC v West_Ham_United
+15/12/2018	15:00	Huddersfield_Town v Newcastle_United
+15/12/2018	15:00	Liverpool_FC v Manchester_United
+15/12/2018	15:00	Manchester_City v Everton_FC
+15/12/2018	15:00	Southampton_FC v Arsenal_FC
+15/12/2018	15:00	Tottenham_Hotspur v Burnley_FC
+15/12/2018	15:00	Watford_FC v Cardiff_City
+15/12/2018	15:00	Wolverhampton_Wanderers v AFC_Bournemouth
+Matchday 18
+Date	Time	Match
+22/12/2018	15:00	AFC_Bournemouth v Brighton_&_Hove_Albion
+22/12/2018	15:00	Arsenal_FC v Burnley_FC
+22/12/2018	15:00	Cardiff_City v Manchester_United
+22/12/2018	15:00	Chelsea_FC v Leicester_City
+22/12/2018	15:00	Everton_FC v Tottenham_Hotspur
+22/12/2018	15:00	Huddersfield_Town v Southampton_FC
+22/12/2018	15:00	Manchester_City v Crystal_Palace
+22/12/2018	15:00	Newcastle_United v Fulham_FC
+22/12/2018	15:00	West_Ham_United v Watford_FC
+22/12/2018	15:00	Wolverhampton_Wanderers v Liverpool_FC
+Matchday 19
+Date	Time	Match
+26/12/2018	15:00	Brighton_&_Hove_Albion v Arsenal_FC
+26/12/2018	15:00	Burnley_FC v Everton_FC
+26/12/2018	15:00	Crystal_Palace v Cardiff_City
+26/12/2018	15:00	Fulham_FC v Wolverhampton_Wanderers
+26/12/2018	15:00	Leicester_City v Manchester_City
+26/12/2018	15:00	Liverpool_FC v Newcastle_United
+26/12/2018	15:00	Manchester_United v Huddersfield_Town
+26/12/2018	15:00	Southampton_FC v West_Ham_United
+26/12/2018	15:00	Tottenham_Hotspur v AFC_Bournemouth
+26/12/2018	15:00	Watford_FC v Chelsea_FC
+Matchday 20
+Date	Time	Match
+29/12/2018	15:00	Brighton_&_Hove_Albion v Everton_FC
+29/12/2018	15:00	Burnley_FC v West_Ham_United
+29/12/2018	15:00	Crystal_Palace v Chelsea_FC
+29/12/2018	15:00	Fulham_FC v Huddersfield_Town
+29/12/2018	15:00	Leicester_City v Cardiff_City
+29/12/2018	15:00	Liverpool_FC v Arsenal_FC
+29/12/2018	15:00	Manchester_United v AFC_Bournemouth
+29/12/2018	15:00	Southampton_FC v Manchester_City
+29/12/2018	15:00	Tottenham_Hotspur v Wolverhampton_Wanderers
+29/12/2018	15:00	Watford_FC v Newcastle_United
+Matchday 21
+Date	Time	Match
+01/01/2019	15:00	AFC_Bournemouth v Watford_FC
+01/01/2019	15:00	Arsenal_FC v Fulham_FC
+01/01/2019	15:00	Cardiff_City v Tottenham_Hotspur
+01/01/2019	15:00	Chelsea_FC v Southampton_FC
+01/01/2019	15:00	Everton_FC v Leicester_City
+01/01/2019	15:00	Huddersfield_Town v Burnley_FC
+01/01/2019	15:00	Manchester_City v Liverpool_FC
+01/01/2019	15:00	Newcastle_United v Manchester_United
+01/01/2019	15:00	West_Ham_United v Brighton_&_Hove_Albion
+01/01/2019	15:00	Wolverhampton_Wanderers v Crystal_Palace
+Matchday 22
+Date	Time	Match
+12/01/2019	15:00	Brighton_&_Hove_Albion v Liverpool_FC
+12/01/2019	15:00	Burnley_FC v Fulham_FC
+12/01/2019	15:00	Cardiff_City v Huddersfield_Town
+12/01/2019	15:00	Chelsea_FC v Newcastle_United
+12/01/2019	15:00	Crystal_Palace v Watford_FC
+12/01/2019	15:00	Everton_FC v AFC_Bournemouth
+12/01/2019	15:00	Leicester_City v Southampton_FC
+12/01/2019	15:00	Manchester_City v Wolverhampton_Wanderers
+12/01/2019	15:00	Tottenham_Hotspur v Manchester_United
+12/01/2019	15:00	West_Ham_United v Arsenal_FC
+Matchday 23
+Date	Time	Match
+19/01/2019	15:00	AFC_Bournemouth v West_Ham_United
+19/01/2019	15:00	Arsenal_FC v Chelsea_FC
+19/01/2019	15:00	Fulham_FC v Tottenham_Hotspur
+19/01/2019	15:00	Huddersfield_Town v Manchester_City
+19/01/2019	15:00	Liverpool_FC v Crystal_Palace
+19/01/2019	15:00	Manchester_United v Brighton_&_Hove_Albion
+19/01/2019	15:00	Newcastle_United v Cardiff_City
+19/01/2019	15:00	Southampton_FC v Everton_FC
+19/01/2019	15:00	Watford_FC v Burnley_FC
+19/01/2019	15:00	Wolverhampton_Wanderers v Leicester_City
+Matchday 24
+Date	Time	Match
+29/01/2019	19:45	AFC_Bournemouth v Chelsea_FC
+29/01/2019	19:45	Arsenal_FC v Cardiff_City
+29/01/2019	19:45	Fulham_FC v Brighton_&_Hove_Albion
+29/01/2019	19:45	Huddersfield_Town v Everton_FC
+29/01/2019	20:00	Manchester_United v Burnley_FC
+29/01/2019	19:45	Wolverhampton_Wanderers v West_Ham_United
+30/01/2019	20:00	Liverpool_FC v Leicester_City
+30/01/2019	19:45	Newcastle_United v Manchester_City
+30/01/2019	19:45	Southampton_FC v Crystal_Palace
+30/01/2019	20:00	Tottenham_Hotspur v Watford_FC
+Matchday 25
+Date	Time	Match
+02/02/2019	15:00	Brighton_&_Hove_Albion v Watford_FC
+02/02/2019	15:00	Burnley_FC v Southampton_FC
+02/02/2019	15:00	Cardiff_City v AFC_Bournemouth
+02/02/2019	15:00	Chelsea_FC v Huddersfield_Town
+02/02/2019	15:00	Crystal_Palace v Fulham_FC
+02/02/2019	15:00	Everton_FC v Wolverhampton_Wanderers
+02/02/2019	15:00	Leicester_City v Manchester_United
+02/02/2019	15:00	Manchester_City v Arsenal_FC
+02/02/2019	15:00	Tottenham_Hotspur v Newcastle_United
+02/02/2019	15:00	West_Ham_United v Liverpool_FC
+Matchday 26
+Date	Time	Match
+09/02/2019	15:00	Brighton_&_Hove_Albion v Burnley_FC
+09/02/2019	15:00	Crystal_Palace v West_Ham_United
+09/02/2019	15:00	Fulham_FC v Manchester_United
+09/02/2019	15:00	Huddersfield_Town v Arsenal_FC
+09/02/2019	15:00	Liverpool_FC v AFC_Bournemouth
+09/02/2019	15:00	Manchester_City v Chelsea_FC
+09/02/2019	15:00	Southampton_FC v Cardiff_City
+09/02/2019	15:00	Tottenham_Hotspur v Leicester_City
+09/02/2019	15:00	Watford_FC v Everton_FC
+09/02/2019	15:00	Wolverhampton_Wanderers v Newcastle_United
+Matchday 27
+Date	Time	Match
+23/02/2019	15:00	AFC_Bournemouth v Wolverhampton_Wanderers
+23/02/2019	15:00	Arsenal_FC v Southampton_FC
+23/02/2019	15:00	Burnley_FC v Tottenham_Hotspur
+23/02/2019	15:00	Cardiff_City v Watford_FC
+23/02/2019	15:00	Chelsea_FC v Brighton_&_Hove_Albion
+23/02/2019	15:00	Everton_FC v Manchester_City
+23/02/2019	15:00	Leicester_City v Crystal_Palace
+23/02/2019	15:00	Manchester_United v Liverpool_FC
+23/02/2019	15:00	Newcastle_United v Huddersfield_Town
+23/02/2019	15:00	West_Ham_United v Fulham_FC
+Matchday 28
+Date	Time	Match
+26/02/2019	19:45	Arsenal_FC v AFC_Bournemouth
+26/02/2019	19:45	Cardiff_City v Everton_FC
+26/02/2019	20:00	Crystal_Palace v Manchester_United
+26/02/2019	19:45	Huddersfield_Town v Wolverhampton_Wanderers
+26/02/2019	19:45	Leicester_City v Brighton_&_Hove_Albion
+27/02/2019	19:45	Chelsea_FC v Tottenham_Hotspur
+27/02/2019	20:00	Liverpool_FC v Watford_FC
+27/02/2019	20:00	Manchester_City v West_Ham_United
+27/02/2019	19:45	Newcastle_United v Burnley_FC
+27/02/2019	19:45	Southampton_FC v Fulham_FC
+Matchday 29
+Date	Time	Match
+02/03/2019	15:00	AFC_Bournemouth v Manchester_City
+02/03/2019	15:00	Brighton_&_Hove_Albion v Huddersfield_Town
+02/03/2019	15:00	Burnley_FC v Crystal_Palace
+02/03/2019	15:00	Everton_FC v Liverpool_FC
+02/03/2019	15:00	Fulham_FC v Chelsea_FC
+02/03/2019	15:00	Manchester_United v Southampton_FC
+02/03/2019	15:00	Tottenham_Hotspur v Arsenal_FC
+02/03/2019	15:00	Watford_FC v Leicester_City
+02/03/2019	15:00	West_Ham_United v Newcastle_United
+02/03/2019	15:00	Wolverhampton_Wanderers v Cardiff_City
+Matchday 30
+Date	Time	Match
+09/03/2019	15:00	Arsenal_FC v Manchester_United
+09/03/2019	15:00	Cardiff_City v West_Ham_United
+09/03/2019	15:00	Chelsea_FC v Wolverhampton_Wanderers
+09/03/2019	15:00	Crystal_Palace v Brighton_&_Hove_Albion
+09/03/2019	15:00	Huddersfield_Town v AFC_Bournemouth
+09/03/2019	15:00	Leicester_City v Fulham_FC
+09/03/2019	15:00	Liverpool_FC v Burnley_FC
+09/03/2019	15:00	Manchester_City v Watford_FC
+09/03/2019	15:00	Newcastle_United v Everton_FC
+09/03/2019	15:00	Southampton_FC v Tottenham_Hotspur
+Matchday 31
+Date	Time	Match
+16/03/2019	15:00	AFC_Bournemouth v Newcastle_United
+16/03/2019	15:00	Brighton_&_Hove_Albion v Cardiff_City
+16/03/2019	15:00	Burnley_FC v Leicester_City
+16/03/2019	15:00	Everton_FC v Chelsea_FC
+16/03/2019	15:00	Fulham_FC v Liverpool_FC
+16/03/2019	15:00	Manchester_United v Manchester_City
+16/03/2019	15:00	Tottenham_Hotspur v Crystal_Palace
+16/03/2019	15:00	Watford_FC v Southampton_FC
+16/03/2019	15:00	West_Ham_United v Huddersfield_Town
+16/03/2019	15:00	Wolverhampton_Wanderers v Arsenal_FC
+Matchday 32
+Date	Time	Match
+30/03/2019	15:00	Arsenal_FC v Newcastle_United
+30/03/2019	15:00	Brighton_&_Hove_Albion v Southampton_FC
+30/03/2019	15:00	Burnley_FC v Wolverhampton_Wanderers
+30/03/2019	15:00	Cardiff_City v Chelsea_FC
+30/03/2019	15:00	Crystal_Palace v Huddersfield_Town
+30/03/2019	15:00	Fulham_FC v Manchester_City
+30/03/2019	15:00	Leicester_City v AFC_Bournemouth
+30/03/2019	15:00	Liverpool_FC v Tottenham_Hotspur
+30/03/2019	15:00	Manchester_United v Watford_FC
+30/03/2019	15:00	West_Ham_United v Everton_FC
+Matchday 33
+Date	Time	Match
+06/04/2019	15:00	AFC_Bournemouth v Burnley_FC
+06/04/2019	15:00	Chelsea_FC v West_Ham_United
+06/04/2019	15:00	Everton_FC v Arsenal_FC
+06/04/2019	15:00	Huddersfield_Town v Leicester_City
+06/04/2019	15:00	Manchester_City v Cardiff_City
+06/04/2019	15:00	Newcastle_United v Crystal_Palace
+06/04/2019	15:00	Southampton_FC v Liverpool_FC
+06/04/2019	15:00	Tottenham_Hotspur v Brighton_&_Hove_Albion
+06/04/2019	15:00	Watford_FC v Fulham_FC
+06/04/2019	15:00	Wolverhampton_Wanderers v Manchester_United
+Matchday 34
+Date	Time	Match
+13/04/2019	15:00	Brighton_&_Hove_Albion v AFC_Bournemouth
+13/04/2019	15:00	Burnley_FC v Cardiff_City
+13/04/2019	15:00	Crystal_Palace v Manchester_City
+13/04/2019	15:00	Fulham_FC v Everton_FC
+13/04/2019	15:00	Leicester_City v Newcastle_United
+13/04/2019	15:00	Liverpool_FC v Chelsea_FC
+13/04/2019	15:00	Manchester_United v West_Ham_United
+13/04/2019	15:00	Southampton_FC v Wolverhampton_Wanderers
+13/04/2019	15:00	Tottenham_Hotspur v Huddersfield_Town
+13/04/2019	15:00	Watford_FC v Arsenal_FC
+Matchday 35
+Date	Time	Match
+20/04/2019	15:00	AFC_Bournemouth v Fulham_FC
+20/04/2019	15:00	Arsenal_FC v Crystal_Palace
+20/04/2019	15:00	Cardiff_City v Liverpool_FC
+20/04/2019	15:00	Chelsea_FC v Burnley_FC
+20/04/2019	15:00	Everton_FC v Manchester_United
+20/04/2019	15:00	Huddersfield_Town v Watford_FC
+20/04/2019	15:00	Manchester_City v Tottenham_Hotspur
+20/04/2019	15:00	Newcastle_United v Southampton_FC
+20/04/2019	15:00	West_Ham_United v Leicester_City
+20/04/2019	15:00	Wolverhampton_Wanderers v Brighton_&_Hove_Albion
+Matchday 36
+Date	Time	Match
+27/04/2019	15:00	Brighton_&_Hove_Albion v Newcastle_United
+27/04/2019	15:00	Burnley_FC v Manchester_City
+27/04/2019	15:00	Crystal_Palace v Everton_FC
+27/04/2019	15:00	Fulham_FC v Cardiff_City
+27/04/2019	15:00	Leicester_City v Arsenal_FC
+27/04/2019	15:00	Liverpool_FC v Huddersfield_Town
+27/04/2019	15:00	Manchester_United v Chelsea_FC
+27/04/2019	15:00	Southampton_FC v AFC_Bournemouth
+27/04/2019	15:00	Tottenham_Hotspur v West_Ham_United
+27/04/2019	15:00	Watford_FC v Wolverhampton_Wanderers
+Matchday 37
+Date	Time	Match
+04/05/2019	15:00	AFC_Bournemouth v Tottenham_Hotspur
+04/05/2019	15:00	Arsenal_FC v Brighton_&_Hove_Albion
+04/05/2019	15:00	Cardiff_City v Crystal_Palace
+04/05/2019	15:00	Chelsea_FC v Watford_FC
+04/05/2019	15:00	Everton_FC v Burnley_FC
+04/05/2019	15:00	Huddersfield_Town v Manchester_United
+04/05/2019	15:00	Manchester_City v Leicester_City
+04/05/2019	15:00	Newcastle_United v Liverpool_FC
+04/05/2019	15:00	West_Ham_United v Southampton_FC
+04/05/2019	15:00	Wolverhampton_Wanderers v Fulham_FC
+Matchday 38
+Date	Time	Match
+12/05/2019	15:00	Brighton_&_Hove_Albion v Manchester_City
+12/05/2019	15:00	Burnley_FC v Arsenal_FC
+12/05/2019	15:00	Crystal_Palace v AFC_Bournemouth
+12/05/2019	15:00	Fulham_FC v Newcastle_United
+12/05/2019	15:00	Leicester_City v Chelsea_FC
+12/05/2019	15:00	Liverpool_FC v Wolverhampton_Wanderers
+12/05/2019	15:00	Manchester_United v Cardiff_City
+12/05/2019	15:00	Southampton_FC v Huddersfield_Town
+12/05/2019	15:00	Tottenham_Hotspur v Everton_FC
+12/05/2019	15:00	Watford_FC v West_Ham_United
